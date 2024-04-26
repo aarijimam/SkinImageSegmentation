@@ -67,7 +67,7 @@ The segmentation results are displayed using different colors for each skin laye
 
 Sample results and visualizations are provided in the notebook.
 
-##Steps
+## Steps
 ### Background Removal
 
 The first step involved removing the background from skin images utilizing 8-Way Connected Component Analysis. Initially, I noticed that most of the background appeared as completely white with an intensity of 255 in grayscale. However, due to slight variations in pixel values, a set (V set) with values ranging from 250 to 255 was created. After applying CCA, it became evident that the background constituted the largest segment of the formed layers. Thus, the largest segment was identified and its gray values were set to 0 to represent the background. The background was then shaded white while the rest of the image was shaded black for further processing. Additionally, Gaussian Blur was applied to blend some outlier pixels for improved results, although similar outcomes could be achieved without this step.
