@@ -7,6 +7,7 @@ This project implements a skin image segmentation technique using Connected Comp
 - [Dependencies](#dependencies)
 - [Usage](#usage)
 - [Results](#results)
+- [Steps](#steps)
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
