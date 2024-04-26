@@ -48,7 +48,8 @@ Skin image segmentation is a crucial step in many medical image analysis applica
 ## Results
 
 The segmentation results are displayed using different colors for each skin layer:
-
+- Input
+- ![Uploading image.png…]()
 - Dermal-epidermal junction: Pink
 - ![image](https://github.com/aarijimam/SkinImageSegmentation/assets/35100854/6f0a9cc2-4647-4099-964a-9eaca34dcee8)
 - Dermis: Green
@@ -66,6 +67,7 @@ The segmentation results are displayed using different colors for each skin laye
 - ![image](https://github.com/aarijimam/SkinImageSegmentation/assets/35100854/cc74be9c-f3a4-4521-84c9-8fe32f72188c)
 
 Sample results and visualizations are provided in the notebook.
+The algorithm has an accuracy of 75% on the Test Data.
 
 ## Steps
 ### Background Removal
