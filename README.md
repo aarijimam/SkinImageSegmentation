@@ -50,20 +50,20 @@ Skin image segmentation is a crucial step in many medical image analysis applica
 The segmentation results are displayed using different colors for each skin layer:
 
 - Dermal-epidermal junction: Pink
-  ![image](https://github.com/aarijimam/SkinImageSegmentation/assets/35100854/6f0a9cc2-4647-4099-964a-9eaca34dcee8)
+- ![image](https://github.com/aarijimam/SkinImageSegmentation/assets/35100854/6f0a9cc2-4647-4099-964a-9eaca34dcee8)
 - Dermis: Green
-  ![image](https://github.com/aarijimam/SkinImageSegmentation/assets/35100854/705b2e00-ddcf-464b-9d2a-5eda10f4a412)
+- ![image](https://github.com/aarijimam/SkinImageSegmentation/assets/35100854/705b2e00-ddcf-464b-9d2a-5eda10f4a412)
 - Epidermis: Purple
-  ![image](https://github.com/aarijimam/SkinImageSegmentation/assets/35100854/b99b9b2f-22ef-4c32-8dda-e53918be90b0)
+- ![image](https://github.com/aarijimam/SkinImageSegmentation/assets/35100854/b99b9b2f-22ef-4c32-8dda-e53918be90b0)
 - Keratin: White
-  ![image](https://github.com/aarijimam/SkinImageSegmentation/assets/35100854/97b050c2-22f0-431d-82d2-da7ab2493d05)
+- ![image](https://github.com/aarijimam/SkinImageSegmentation/assets/35100854/97b050c2-22f0-431d-82d2-da7ab2493d05)
 - Background: Black
-  ![image](https://github.com/aarijimam/SkinImageSegmentation/assets/35100854/fa9f15c5-fd81-4551-a1bc-dde28df32111)
+- ![image](https://github.com/aarijimam/SkinImageSegmentation/assets/35100854/fa9f15c5-fd81-4551-a1bc-dde28df32111)
 
 - Skin Layers Combined (Generated)
-  ![image](https://github.com/aarijimam/SkinImageSegmentation/assets/35100854/3590d0da-beef-4713-b352-604ba51e4b91)
+- ![image](https://github.com/aarijimam/SkinImageSegmentation/assets/35100854/3590d0da-beef-4713-b352-604ba51e4b91)
 - Actual Mask
-  ![image](https://github.com/aarijimam/SkinImageSegmentation/assets/35100854/cc74be9c-f3a4-4521-84c9-8fe32f72188c)
+- ![image](https://github.com/aarijimam/SkinImageSegmentation/assets/35100854/cc74be9c-f3a4-4521-84c9-8fe32f72188c)
 
   
 
